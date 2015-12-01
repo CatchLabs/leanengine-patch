@@ -1,0 +1,22 @@
+{
+  "name": "leanengine-patch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatchLabs/leanengine-patch.git"
+  },
+  "author": "Senorsen <senorsen.zhang@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CatchLabs/leanengine-patch/issues"
+  },
+  "homepage": "https://github.com/CatchLabs/leanengine-patch#readme",
+  "dependencies": {
+    "leanengine": "^0.2.0"
+  }
+}
